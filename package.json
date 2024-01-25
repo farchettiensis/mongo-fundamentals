@@ -1,7 +1,8 @@
 {
+  "author": "Fernando Belmonte Archetti",
   "name": "fcc-mongo-mongoose-challenges",
   "version": "0.0.1",
-  "description": "A boilerplate project",
+  "description": "A MongoDB and Mongoose project from the freeCodeCamp curriculum.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -14,12 +15,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/freeCodeCamp/boilerplate-mongomongoose.git"
+    "url": "https://github.com/farchettiensis/mongo-fundamentals"
   },
   "keywords": [
     "node",
     "mongoose",
     "express"
-  ],
-  "license": "MIT"
+  ]
 }
